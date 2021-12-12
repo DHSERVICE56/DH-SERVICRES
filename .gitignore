@@ -1,0 +1,82 @@
+# Next For T3000 ignore
+/Documentation/Express
+/Documentation/T3000InstallShield
+/Documentation/TemcoSoftware
+
+/T3000 Output
+/T3000 Output_VS2015
+# /.vs  <Need .vs in the repo for changes to the Visual Studio project files. 
+**/Thumbs.db
+
+**/Debug/
+/**/.svn
+*.suo
+
+*.user
+
+*.pdb
+
+*.sdf
+
+*.opensdf
+**/ipch/
+*.APS
+**/*.bin
+
+**/*.Opt
+**/*.__i
+**/*.obj
+**/*.lnp
+**/*.did
+**/*.csdsig
+**/~*
+**/*.lsp
+**/SpecctraWithinLayout.*
+**/*.SBR
+**/*.s51
+**/*.r51
+**/*.bom
+**/*.MAP
+**/*.build_log.htm
+**/*.uvopt
+**/*._ia
+**/*.plg
+**/*.jrl
+**/*.dbk
+**/*.tmp
+**/*.bak
+**/*.ls1
+**/*.lis
+**/*.SRC
+**/*.log
+**/*.DSNlck
+**/*.M51
+**/*.lock
+**/*.SYM
+**/*.err
+**/*.OLBlck
+**/*.MNL
+**/*.MAX
+/T3000.VC.db
+
+
+/*.opendb
+/Psychrometric Tool/T3000 Output_VS2015
+/Psychrometric Tool/WFA_psychometric_chart/packages
+
+
+>>>Ultraedit User interface and cache
+**/*.pui
+**/*.cache
+T3000 - VS2015.VC.db
+T3000Controls/obj/Release/TempPE/Properties.Resources.Designer.cs.dll
+T3000 - VS2010.VC.db
+.vs/T3000 - VS2017/v15/Browse.VC.db
+.vs/T3000 - VS2017/v15/Solution.VC.db
+.vs/T3000 - VS2017/v15/Solution.VC.db-shm
+.vs/T3000 - VS2017/v15/Solution.VC.db-wal
+.vs/T3000_Building_Automation_System/v15/Browse.VC.db
+.vs/T3000 - VS2017/v15/Browse.VC.opendb
+.vs/T3000 - VS2017/v15/Server/sqlite3/storage.ide
+.vs/T3000 - VS2017/v15/Server/sqlite3/storage.ide-shm
+.vs/T3000 - VS2017/v15/Server/sqlite3/storage.ide-wal
